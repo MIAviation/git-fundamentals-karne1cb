@@ -104,4 +104,24 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
-* [GitHub community forum](https://github.community/)
+* [GitHub community forum](https://github.community/)4
+
+## TEST
+
+Warning: this is a test. Nothing else, just a test.
+1. ONE
+   - MISSISSIPPI
+2. TWO
+   - MISSISSIPPI
+3. THREE
+   - MISSISSIPPI
+4. FOUR
+   - MISSISSIPPI
+5. FIVE
+   - MISSISSIPPI
+
+- [x] DONE!
+- [ ] NOT DONE!
+- [ ] ALMOST DONE :shipit: :b:
+
+lol *italics* \*not italics\*
